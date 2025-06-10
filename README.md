@@ -50,9 +50,9 @@ data/
 
 Download the following datasets and place them in the `data/unprocessed/` directory:
 
-1. **MVTec AD**: [Download from MVTec](www.kaggle.com/code/ipythonx/mvtec-ad-anomaly-detection-with-anomalib-library)
-2. **DAGM 2007**: [Download from Kaggle](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection/dagm-2007-competition-dataset-optical-inspection)
-3. **KolektorSDD**: [Download from Kaggle](https://www.vicos.si/resources/kolektorsdd/)
+1. **MVTec AD**: www.kaggle.com/code/ipythonx/mvtec-ad-anomaly-detection-with-anomalib-library
+2. **DAGM 2007**: https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection/dagm-2007-competition-dataset-optical-inspection
+3. **KolektorSDD**: https://www.vicos.si/resources/kolektorsdd/
 
 ### Data Processing Scripts
 
